@@ -7,9 +7,10 @@ This is an example is to show different parts of the Git Repository and various 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above ,the main purpose it to provide simple examples of git traning demos
 
 ## Deployment
+This is an simple web project ,deployment can be on any web server or event local file system.
 
 ## How to Contribute
 
