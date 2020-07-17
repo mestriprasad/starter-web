@@ -15,3 +15,7 @@ This is an simple web project ,deployment can be on any web server or event loca
 ## How to Contribute
 
 How to contribute in this.
+
+### Copyright
+
+2020 Git Training.
